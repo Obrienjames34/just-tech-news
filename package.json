@@ -17,6 +17,8 @@
   "bugs": {
     "url": "https://github.com/Obrienjames34/just-tech-news/issues"
   },
-  "homepage": "https://github.com/Obrienjames34/just-tech-news#readme"
+  "homepage": "https://github.com/Obrienjames34/just-tech-news#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2"
+  }
 }
-
